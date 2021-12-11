@@ -6,3 +6,6 @@ Cliente.java
 MensajeCliente.java
 Sensor.java
 Server.java
+
+
+Y el archivo pom.xml
